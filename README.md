@@ -1,2 +1,2 @@
 # react_1
- react study
+ 리액트 공부
